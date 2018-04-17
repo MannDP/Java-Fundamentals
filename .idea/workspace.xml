@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca20c198-f708-420f-afd0-b4afce8e0430" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/studentGrades/studentGradeImplement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaProjects/studentGrades/gradesSource.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProjects/studentGrades/gradesSource.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/studentGrades/gradesSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/studentGrades/gradesSource.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -16,21 +19,34 @@
     <favorites_list name="JavaFundamentals" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="gradesSource.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/studentGrades/gradesSource.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
-              <folding>
-                <element signature="e#519#520#0" expanded="true" />
-                <element signature="e#551#552#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="studentGradeImplement.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/studentGrades/studentGradeImplement.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="160">
+                  <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="gradesSource.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/studentGrades/gradesSource.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="251">
+                  <caret line="42" column="39" selection-start-line="42" selection-start-column="39" selection-end-line="42" selection-end-column="39" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -97,6 +113,7 @@
         <option value="$PROJECT_DIR$/src/calendarApp/calendarImplement.java" />
         <option value="$PROJECT_DIR$/src/calendarApp/calendarSource.java" />
         <option value="$PROJECT_DIR$/src/studentGrades/gradesSource.java" />
+        <option value="$PROJECT_DIR$/src/studentGrades/studentGradeImplement.java" />
       </list>
     </option>
   </component>
@@ -134,6 +151,12 @@
               <item name="Java-Fundamentals" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Java-Fundamentals" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Fundamentals" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="studentGrades" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -150,7 +173,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -164,23 +187,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.calendarImplement (1)">
+  <component name="RunManager" selected="Application.studentGradeImplement">
     <configuration name="AccountImplementation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="bankAccounts.AccountImplementation" />
       <module name="JavaProjects" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="bankAccounts.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="SlidingWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.statistics.SlidingWindow" />
-      <module name="JavaProjects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.statistics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -209,6 +222,16 @@
         </pattern>
       </extension>
     </configuration>
+    <configuration name="studentGradeImplement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="studentGrades.studentGradeImplement" />
+      <module name="JavaProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="studentGrades.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
@@ -225,19 +248,19 @@
       <method />
     </configuration>
     <list>
-      <item itemvalue="Application.SlidingWindow" />
       <item itemvalue="Application.Smith1" />
       <item itemvalue="Application.AccountImplementation" />
       <item itemvalue="Application.calendarImplement" />
       <item itemvalue="Application.calendarImplement (1)" />
+      <item itemvalue="Application.studentGradeImplement" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.studentGradeImplement" />
         <item itemvalue="Application.calendarImplement (1)" />
         <item itemvalue="Application.calendarImplement" />
         <item itemvalue="Application.AccountImplementation" />
         <item itemvalue="Application.Smith1" />
-        <item itemvalue="Application.SlidingWindow" />
       </list>
     </recent_temporary>
   </component>
@@ -252,7 +275,7 @@
       <option name="presentableId" value="Default" />
       <updated>1522847075944</updated>
       <workItem from="1523922153870" duration="647000" />
-      <workItem from="1523923150220" duration="107000" />
+      <workItem from="1523923150220" duration="5143000" />
     </task>
     <task id="LOCAL-00001" summary="Merge into Spectre source.">
       <created>1523831834585</created>
@@ -279,7 +302,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="754000" />
+    <option name="totallyTimeSpent" value="5790000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -287,33 +310,33 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4920286" weight="0.32665095" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4920286" weight="0.32551724" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5074217" side_tool="true" weight="0.32857144" />
       <window_info anchor="right" id="Maven Projects" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49257833" weight="0.3231132" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49257833" visible="true" weight="0.26068965" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49972543" weight="0.269863" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7710345" visible="true" weight="0.18945312" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7705224" visible="true" weight="0.14973958" />
       <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3278302" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49972513" weight="0.4268868" />
-      <window_info id="Favorites" order="5" sideWeight="0.22896552" side_tool="true" visible="true" weight="0.18945312" />
+      <window_info id="Favorites" order="5" sideWeight="0.22947761" side_tool="true" visible="true" weight="0.14973958" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Inspection Results" order="11" sideWeight="0.49972513" weight="0.32967034" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3278302" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
@@ -361,13 +384,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/statistics/arrayPrint.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="5" lean-forward="true" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/edu/inheritance/Parent.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -609,12 +625,15 @@
     <entry file="file://$PROJECT_DIR$/src/calendarApp/calendarImplement.java" />
     <entry file="file://$PROJECT_DIR$/src/studentGrades/gradesSource.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
-          <folding>
-            <element signature="e#519#520#0" expanded="true" />
-            <element signature="e#551#552#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="251">
+          <caret line="42" column="39" selection-start-line="42" selection-start-column="39" selection-end-line="42" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/studentGrades/studentGradeImplement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
         </state>
       </provider>
     </entry>
