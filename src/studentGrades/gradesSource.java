@@ -1,5 +1,6 @@
 package studentGrades;
 
+//instead of hardcode, use final MAX_COURSES
 public class gradesSource {
 
     private String name;

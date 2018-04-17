@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca20c198-f708-420f-afd0-b4afce8e0430" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProjects/calendarApp/calendarSource.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProjects/calendarApp/calendarSource.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProjects/calendarImplement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProjects/calendarImplement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaProjects/edu/foundations/Loops.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaProjects/edu/foundations/Loops.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calendarApp/calendarImplement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/calendarApp/calendarImplement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calendarApp/calendarSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/calendarApp/calendarSource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/studentGrades/gradesSource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/studentGrades/gradesSource.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,8 +20,8 @@
       <file leaf-file-name="gradesSource.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/studentGrades/gradesSource.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+            <state relative-caret-position="34">
+              <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
               <folding>
                 <element signature="e#519#520#0" expanded="true" />
                 <element signature="e#551#552#0" expanded="true" />
@@ -100,9 +94,9 @@
         <option value="$PROJECT_DIR$/src/bankAccounts/accountImplementation.java" />
         <option value="$PROJECT_DIR$/src/bankAccounts/AccountMethods.java" />
         <option value="$PROJECT_DIR$/src/bankAccounts/AccountImplementation.java" />
-        <option value="$PROJECT_DIR$/src/studentGrades/gradesSource.java" />
         <option value="$PROJECT_DIR$/src/calendarApp/calendarImplement.java" />
         <option value="$PROJECT_DIR$/src/calendarApp/calendarSource.java" />
+        <option value="$PROJECT_DIR$/src/studentGrades/gradesSource.java" />
       </list>
     </option>
   </component>
@@ -127,31 +121,25 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="JavaFundamentals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaFundamentals" type="462c0819:PsiDirectoryNode" />
+              <item name="Java-Fundamentals" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Fundamentals" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="JavaFundamentals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaFundamentals" type="462c0819:PsiDirectoryNode" />
+              <item name="Java-Fundamentals" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Java-Fundamentals" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaFundamentals" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaFundamentals" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="studentGrades" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -264,6 +252,7 @@
       <option name="presentableId" value="Default" />
       <updated>1522847075944</updated>
       <workItem from="1523922153870" duration="647000" />
+      <workItem from="1523923150220" duration="107000" />
     </task>
     <task id="LOCAL-00001" summary="Merge into Spectre source.">
       <created>1523831834585</created>
@@ -290,10 +279,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="647000" />
+    <option name="totallyTimeSpent" value="754000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -303,20 +293,20 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5074217" side_tool="true" weight="0.32857144" />
       <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49257833" weight="0.3231132" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49972543" weight="0.269863" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7724138" visible="true" weight="0.18945312" />
-      <window_info anchor="right" id="Database" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7710345" visible="true" weight="0.18945312" />
+      <window_info anchor="right" id="Database" order="8" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info id="Favorites" order="5" sideWeight="0.22758621" side_tool="true" visible="true" weight="0.18945312" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49972513" weight="0.4268868" />
+      <window_info id="Favorites" order="5" sideWeight="0.22896552" side_tool="true" visible="true" weight="0.18945312" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Inspection Results" order="11" sideWeight="0.49972513" weight="0.32967034" />
@@ -329,15 +319,15 @@
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49257833" visible="true" weight="0.32857144" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.4920286" weight="0.32857144" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15008247" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="7" />
-      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49257833" visible="true" weight="0.32857144" />
       <window_info anchor="bottom" id="Inspection Results" order="0" sideWeight="0.49972513" weight="0.32967034" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -347,10 +337,10 @@
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49972543" weight="0.27050054" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5074217" side_tool="true" visible="true" weight="0.32857144" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
       <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Message" order="1" />
       <window_info id="Image Layers" order="2" />
-      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.4920286" weight="0.32857144" />
       <window_info anchor="right" id="Maven Projects" order="6" />
       <window_info id="Favorites" order="5" side_tool="true" />
     </layout-to-restore>
@@ -619,8 +609,8 @@
     <entry file="file://$PROJECT_DIR$/src/calendarApp/calendarImplement.java" />
     <entry file="file://$PROJECT_DIR$/src/studentGrades/gradesSource.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        <state relative-caret-position="34">
+          <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
           <folding>
             <element signature="e#519#520#0" expanded="true" />
             <element signature="e#551#552#0" expanded="true" />
